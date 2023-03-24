@@ -1,4 +1,6 @@
 # [Programacion Competitiva] Grupo para el primer mes 
 ## Integrantes
-1. Liza Rodriguez Gino Angelo
-2. Rodriguez Ureta Missael Alejandro
+1. Challco Ttito Joel 
+2. Liza Rodriguez Gino Angelo
+3. Rodriguez Ureta Missael Alejandro
+ 
