@@ -10,7 +10,7 @@ bool sustituir(string &special){
     if( letra.find(special[0]) ){
         if( numero.find(special[1]) ){
             if( numero.find(special[2]) ){
-                special = "*";
+                special = "***";
                 return 1;
             }
         }

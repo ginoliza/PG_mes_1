@@ -4,3 +4,5 @@
 2. Liza Rodriguez Gino Angelo
 3. Rodriguez Ureta Missael Alejandro
  
+ # Complejidades de los ejercicios
+ [Complejidades](complexities.md)
